@@ -1,2 +1,13 @@
-## MQTT C# Tutorial Backend
+## MQTT .NET Core Tutorial Backend
+
+Projeto backend de servidor com broker MQTT criado em .NET Core
+
+### Execução
+
+Para executar a aplicação digite no console:
+
+```
+      dotnet watch run
+
+```
 
